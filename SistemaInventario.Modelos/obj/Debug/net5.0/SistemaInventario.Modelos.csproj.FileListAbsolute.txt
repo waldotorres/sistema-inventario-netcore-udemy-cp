@@ -1,0 +1,24 @@
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net5.0\SistemaInventario.Modelos.deps.json
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net5.0\SistemaInventario.Modelos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net5.0\ref\SistemaInventario.Modelos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net5.0\SistemaInventario.Modelos.pdb
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.AssemblyInfo.cs
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\ref\SistemaInventario.Modelos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.pdb
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.Modelos\bin\Debug\net5.0\SistemaInventario.Modelos.deps.json
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.Modelos\bin\Debug\net5.0\SistemaInventario.Modelos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.Modelos\bin\Debug\net5.0\SistemaInventario.Modelos.pdb
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.AssemblyInfo.cs
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.Modelos\obj\Debug\net5.0\refint\SistemaInventario.Modelos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.pdb
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.Modelos\obj\Debug\net5.0\ref\SistemaInventario.Modelos.dll

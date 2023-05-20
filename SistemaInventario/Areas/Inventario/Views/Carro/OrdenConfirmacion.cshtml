@@ -1,0 +1,22 @@
+﻿@model int
+<div class="container row">
+    <div class="col-12 text-center">
+        <h1 class="text-primary text-center">Orden Procesada Correctamente</h1><br />
+        <img src="~/imagenes/confirmacion.jpg" width="50%" />
+    </div>
+    <div class="col-12 text-center" style="color:maroon">
+        <br />
+        Gracias Por tu Orden! <br />
+        Hemos recibido tu Orden y Nosotros te enviaremos un email pronto!
+        <br />
+        Your Order Number is : @Model
+        <div class="text-center">
+            <a class="btn btn-success" asp-area="Inventario" asp-controller="Home" asp-action="Index">Salir</a>
+            <a class="btn btn-warning" asp-action="ImprimirOrden" asp-route-id="@Model" target="_blank" >
+                <i class="fas fa-print"></i>Imprimir
+            </a>
+        </div>
+
+    </div>
+</div>
+

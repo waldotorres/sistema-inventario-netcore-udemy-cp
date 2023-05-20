@@ -1,0 +1,34 @@
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.csproj.AssemblyReference.cache
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.AccesoDatos.deps.json
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.AccesoDatos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net5.0\ref\SistemaInventario.AccesoDatos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.AccesoDatos.pdb
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net5.0\ref\SistemaInventario.AccesoDatos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.pdb
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.Modelos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.Utilidades.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.Modelos.pdb
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.Utilidades.pdb
+D:\cursos\ASP Net Core - udemy\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.csproj.CopyComplete
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.AccesoDatos.deps.json
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.AccesoDatos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.AccesoDatos.pdb
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.Modelos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.Utilidades.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.Modelos.pdb
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\bin\Debug\net5.0\SistemaInventario.Utilidades.pdb
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.csproj.AssemblyReference.cache
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.csproj.CopyComplete
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\obj\Debug\net5.0\refint\SistemaInventario.AccesoDatos.dll
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\obj\Debug\net5.0\SistemaInventario.AccesoDatos.pdb
+D:\cursos\ASP Net Core - udemy\SistemaInventario - copia\SistemaInventario.AccesoDatos\obj\Debug\net5.0\ref\SistemaInventario.AccesoDatos.dll

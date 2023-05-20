@@ -1,0 +1,56 @@
+﻿
+@{
+	var estado = Context.Request.Query["estado"];
+	 
+}
+
+<br />
+<div class="border p-3">
+	<div class="d-lg-flex justify-content-between mb-3">
+		<div class="p-2">
+			<h2 class="text-primary">Lista de Ordenes</h2>
+		</div>
+		<div class="p-2">
+			<ul class="list-group list-group-horizontal">
+				<a style="text-decoration:none;" asp-controller="Orden" asp-action="Index" asp-route-estado="pendiente">
+				<li class="list-group-item @(estado == "pendiente" ? "text-white active" : "")">Pendientes</li>
+				</a>
+				<a style="text-decoration:none;" asp-controller="Orden" asp-action="Index" asp-route-estado="aprobado">
+				<li class="list-group-item @(estado == "aprobado" ? "text-white active" : "")">Aprobados</li>
+				</a>
+				<a style="text-decoration:none;" asp-controller="Orden" asp-action="Index" asp-route-estado="completado">
+				<li class="list-group-item @(estado == "completado" ? "text-white active" : "")">Completados</li>
+				</a>
+				<a style="text-decoration:none;" asp-controller="Orden" asp-action="Index" asp-route-estado="rechazado">
+				<li class="list-group-item @(estado == "rechazado" ? "text-white active" : "")">Rechazados</li>
+				</a>
+				<a style="text-decoration:none;" asp-controller="Orden" asp-action="Index" asp-route-estado="todas">
+				<li class="list-group-item @(estado == "todas" ? "text-white active" : "")">Todas</li>
+				</a>
+			</ul>
+		</div>
+	</div>
+	<br />
+	<br />
+
+	<table class="table table-striped-bordered" id="tblDatos" style="width:100%">
+		<thead class="table-dark">
+			<tr class="table-dark">
+				<th>Id</th>
+				<th>Cliente</th>
+				<th>Telefono</th>
+				<th>Email</th>
+				<th>Estado</th>
+				<th>Monto</th>
+				<th></th>
+			</tr>
+		</thead>
+	</table>
+
+</div>
+
+@section Scripts{
+	 <script src="~/js/orden.js">
+
+	 </script>
+}				

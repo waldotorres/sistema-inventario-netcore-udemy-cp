@@ -1,0 +1,51 @@
+﻿@using SistemaInventario.Modelos;
+
+@model IEnumerable<InventarioDetalle>
+@{
+	ViewData["title"] = "Detalle Inventario";
+
+}
+
+<div class="row">
+	<div class="col-6">
+		<h2 class="text-primary">
+			Detalle Historial Inventario
+		</h2>
+	</div>
+</div>
+
+
+<div class="">
+	<table class="table table-striped border">
+		<thead class="table-dark">
+			<tr class="table-dark">
+				<th>Producto</th>
+				<th>Marca</th>
+				<th>Costo</th>
+				<th>Stock Anterior</th>
+				<th>Cantidad</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var fila in Model)
+			{
+				<tr style="font-size:14px;">
+					<td > @Html.DisplayFor(x=> fila.Producto.Descripcion ) </td>
+			 
+					<td> @Html.DisplayFor(x=> fila.Producto.Marca.Nombre ) </td>
+				 
+					<td style="text-align:right;"> @Html.DisplayFor(x=> fila.Producto.Costo ) </td>
+				 
+					<td style="text-align:right;"> @Html.DisplayFor(x=> fila.StockAnterior ) </td>
+				 
+					<td style="text-align:right;color:blue;font-weight:bold"> @Html.DisplayFor(x=> fila.Cantidad ) </td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>
+<div class="col-6">
+	<a class="btn btn-success" asp-action="Historial">
+		<i class="fas fa-back"></i>Regresar
+	</a>
+</div>

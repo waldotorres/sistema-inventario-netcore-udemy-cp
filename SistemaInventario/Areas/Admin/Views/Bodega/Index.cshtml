@@ -1,0 +1,41 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br/>
+<div class="row">
+    <div class="col-6">
+        <h2 class="text-primary">Lista de Bodegas</h2>
+    </div>
+    <div class="col-6 text-right">
+        <a class="btn btn-primary" asp-action="Upsert"><i class="fas fa-plus"></i>Crear nueva bodega</a>
+    </div>
+</div>
+
+<div class="p-4 border rounded">
+    <table id="tblDatos" class="table table-striped table-bordered" style="width:100%">
+        <thead class="table-dark">
+            <tr class="table-info">
+                <th>Nombre</th>
+                <th>Descripcion</th>
+                <th>Estado</th>
+                <th></th>
+            </tr>
+        <thead>
+    </table>
+</div>
+
+@section Scripts{ 
+
+    <script src="~/js/bodega.js"></script>
+}
+
+@*<div class="text-center">
+    <a href="Admin/Bodega/Upsert/Id" class="btn btn-success text-white" style="cursor:pointer">
+        <i class="fas fa-edit"></i>
+    </a>
+    <a class="btn btn-danger text-white" style="cursor:pointer">
+        <i class="fas fa-trash"></i>
+    </a>
+</div>*@
